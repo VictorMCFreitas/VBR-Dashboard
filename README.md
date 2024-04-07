@@ -51,4 +51,5 @@ This screen is dynamic. It will always show 10 lines of times. The first 3 are f
 This screen shows **Sector times**, **Estimated Lap/Best Lap/Last Lap Time**, **Time of the last 7 laps**, The **Track** with the position of the cars
 ![image](https://raw.githubusercontent.com/VictorMCFreitas/VBR-Dashboard/a4acd132ad9a88c0da318a5add94720eec45d214/Pic%204.png)
 
+If you want, to keep me encouraged to continue with the development, you can support my work in
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J7VCJQC)
