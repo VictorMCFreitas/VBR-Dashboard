@@ -1,7 +1,11 @@
 # VBR-Dashboard
-VBR Dashboard is a dashboard to be used in SimHub to help simracers get the info needed to improve their racing skills.
+
+## $\textcolor{red}{\textsf{Latest Version 2.0}}$
+
+VBR Dashboard is a dashboard to be used in SimHub to help simracers get the info needed to improve their racing skills. This is an evolution of my previous VBR Leaderboard. Changed the name to VBR Dashboard because it now includes a Dashboard screen with many info. Make it compatible with iRacing showing iRatings of the players.
 
 The Dashboard has 3 parts:
+
 1. **HEADER**
    
 With **Name** of the track that is running, **Number** of Laps or **Time** left to the ending, **Time** of the computer
@@ -33,7 +37,7 @@ this one that is for games different for iRacing. Here there are no iRatings inf
 This screen is dynamic. It will always show 10 lines of times. The first 3 are from the first 3 positions of players. The next 7 are displayed in such a way that a maximum of 3 players before and 3 after are always visible, It has also 2 variants. One for iRacing with iratings info and other for non-iRacing games.
 ![image](https://raw.githubusercontent.com/VictorMCFreitas/VBR-Dashboard/a4acd132ad9a88c0da318a5add94720eec45d214/Pic%203a.png)
 
-3.4. PRACTICE/QUALY Screen
+3.4. **PRACTICE/QUALY** Screen
 
 This screen shows **Sector times**, **Estimated Lap/Best Lap/Last Lap Time**, **Time of the last 7 laps**, The **Track** with the position of the cars
 ![image](https://raw.githubusercontent.com/VictorMCFreitas/VBR-Dashboard/a4acd132ad9a88c0da318a5add94720eec45d214/Pic%204.png)
