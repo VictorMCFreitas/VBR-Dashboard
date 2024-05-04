@@ -1,12 +1,12 @@
 # VBR-Dashboard
 
-## $\textcolor{red}{\textsf{Latest Version 2.0}}$
+## $\textcolor{red}{\textsf{Latest Version 2.1}}$
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J7VCJQC)
 
 VBR Dashboard is a dashboard to be used in SimHub to help simracers get the info needed to improve their racing skills. This is an evolution of my previous VBR Leaderboard. Changed the name to VBR Dashboard because it now includes a Dashboard screen with many info. Make it compatible with iRacing showing iRatings of the players.
 
-The Dashboard has 3 parts:
+The Dashboard has 3 parts plus 2 more screens with Wheel Map Keys configuration:
 
 ## 1. **HEADER**
    
@@ -46,10 +46,13 @@ This screen is dynamic. It will always show 10 lines of times. The first 3 are f
 
 ![image](https://raw.githubusercontent.com/VictorMCFreitas/VBR-Dashboard/a4acd132ad9a88c0da318a5add94720eec45d214/Pic%203a.png)
 
-3.4. **PRACTICE/QUALY** Screen
+## 3.4. **PRACTICE/QUALY** Screen
 
 This screen shows **Sector times**, **Estimated Lap/Best Lap/Last Lap Time**, **Time of the last 7 laps**, The **Track** with the position of the cars
 ![image](https://raw.githubusercontent.com/VictorMCFreitas/VBR-Dashboard/a4acd132ad9a88c0da318a5add94720eec45d214/Pic%204.png)
 
-If you want, to keep me encouraged to continue with the development, you can support my work in
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J7VCJQC)
+## 3.5 **WHEEL MAP KEY EXAMPLE**
+To go to this screen you have to map a key/button in simhub to **Next Screen**. If you have other wheels or key mapping just edit the dash in DashStudio and add change my pictures to yours
+![image](https://github.com/VictorMCFreitas/VBR-Dashboard/blob/0846774aa4f1ca776d732b98869a5bbad0c23067/MOZA%20KS.png)
+
+## ***If you want, to keep me encouraged to continue with the development, you can support my work in*** [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J7VCJQC)
